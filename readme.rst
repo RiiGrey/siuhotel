@@ -8,7 +8,7 @@ Sistem ini dibuat menggunakan CodeIgeniter 3, bisa mendownload CI `Disini <https
 Users
 *******************
 
-- Admin \n
+- Admin ::
 Username : Admin
 password : 123
 - User Biasa
