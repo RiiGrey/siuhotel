@@ -1,9 +1,12 @@
-# Sistem Informasi Untuk Hotel
-
+####################
+Sistem Informasi Untuk Hotel
+###################
 
 Sistem ini dibuat menggunakan CodeIgeniter 3, bisa mendownload CI `Disini <https://codeigniter.com/download>`
 
-* Users
+******************
+Users
+******************
 
 Admin ::
 Username : Admin ::
@@ -12,6 +15,7 @@ User Biasa ::
 Username : ali ::
 password : 123
 
-* Gambaran Aplikasi
-
+*****************
+Gambaran Aplikasi
+****************
 
