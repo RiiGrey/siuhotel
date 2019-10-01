@@ -13,10 +13,9 @@ Username : Admin ::
 password : 123 ::
 - User Biasa ::
 Username : ali ::
-password : 123
+password : 123 ::
 
 *******************
 Gambaran Aplikasi
 *******************
 
-![Alt Text](https://raw.github.com/riigrey/siuhotel/master/assets/gelerry/1.PNG)
