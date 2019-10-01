@@ -14,3 +14,8 @@ password : 123 ::
 - User Biasa ::
 Username : ali ::
 password : 123 ::
+
+*******************
+Gambaran Aplikasi
+*******************
+
