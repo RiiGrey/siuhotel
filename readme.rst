@@ -13,10 +13,9 @@ Username : Admin ::
 password : 123 ::
 - User Biasa ::
 Username : ali ::
-password : 123 ::
+password : 123
 
 *******************
 Gambaran Aplikasi
 *******************
 
-![alt text](http://103.100.27.78/images/1.PNG)
