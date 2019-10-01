@@ -19,4 +19,4 @@ password : 123
 Gambaran Aplikasi
 *******************
 
-![image](https://user-images.githubusercontent.com/39664310/65978368-c9e90200-e49d-11e9-90a8-c9f8c804e636.PNG)
+![Alt Text](https://raw.github.com/riigrey/siuhotel/master/assets/gelerry/1.PNG)
