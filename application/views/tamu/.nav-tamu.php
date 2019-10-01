@@ -17,7 +17,7 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Fasilitas</a>
-        </li>
+        </li><!-- testing -->
         <li class="nav-item">
           <a class="nav-link" href="<?=site_url()?>tamu_kamar/riwayat_pemesanan">Data Reservasi</a>
         </li>
