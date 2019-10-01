@@ -31,5 +31,11 @@ password : 123 ::
 Gambaran Aplikasi
 *******************
 .. image:: https://raw.githubusercontent.com/riigrey/siuhotel/master/assets/gelerry/1.PNG
+	:height: 109 px
+  :width: 126 px
 .. image:: https://raw.githubusercontent.com/riigrey/siuhotel/master/assets/gelerry/2.PNG
+	:height: 109 px
+  :width: 126 px
 .. image:: https://raw.githubusercontent.com/riigrey/siuhotel/master/assets/gelerry/3.PNG
+	:height: 109 px
+  :width: 126 px
