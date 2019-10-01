@@ -1,0 +1,54 @@
+<table class="table table-borderless">
+            <tbody>
+              <tr>
+                <th scope="row">Tanggal Pemesanan</th>
+                <td><?=$tanggal_pemesanan?></td>
+              </tr>
+              <tr>
+                <th scope="row">Tipe Kamar</th>
+                <td><?=$row->tipe?></td>
+              </tr>
+              <tr>
+                <th scope="row">Harga / hari</th>
+                <td colspan="2"><?=$row->harga?></td>
+              </tr>
+              <tr>
+                <th scope="row">Jumlah Kamar</th>
+                <td colspan="2"><?=$row->jumlah?></td>
+              </tr>
+              <tr>
+                <th scope="row">Nama Lengkap</th>
+                <td colspan="2"><?=$row->nama?></td>
+              </tr>
+              <tr>
+                <th scope="row">Alamat</th>
+                <td colspan="2"><?=$row->alamat?></td>
+              </tr>
+              <tr>
+                <th scope="row">No. Telepon	</th>
+                <td colspan="2"><?=$row->telepon?></td>
+              </tr>
+              <tr>
+                <th scope="row">Tanggal Check-In</th>
+                <td colspan="2"><?=$row->tglmasuk?></td>
+              </tr>
+              <tr>
+                <th scope="row">Tanggal Check-Out</th>
+                <td colspan="2"><?=$row->tglkeluar?></td>
+              </tr>
+              <tr>
+                <th scope="row">Lama Menginap</th>
+                <td colspan="2"><?=$row->lamahari?></td>
+              </tr>
+            </tbody>
+            <tfoot >
+              <tr>
+                <th scope="row">Total Bayar</th>
+                <th colspan="2"><?=$row->totalbayar?></th>
+              </tr>
+              <tr>
+                <th scope="row">Status Transaksi</th>
+                <th colspan="2"><?=$row->status?></th>
+              </tr>
+            </tfoot>
+          </table>
