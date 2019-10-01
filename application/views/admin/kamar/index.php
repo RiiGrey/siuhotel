@@ -32,7 +32,10 @@
           foreach($kamars->result() as $kamar){
         ?>
           <tr>
-            <th scope="row"><a class="text-info" href="<?=site_url()?>admin/ubah_kamar_form/<?=$kamar->idkamar?>"><i class="fas fa-edit"></i>Ubah</a> | <a href="#" class="open-modal text-info" data-toggle="modal" data-target="#modalView" data-tipe="<?=$kamar->tipe?>" data-jumlah="<?=$kamar->jumlah?>" data-harga="<?=$kamar->harga?>" data-gambar="<?=site_url()?>uploads/admin/kamar/<?=$kamar->gambar?>"><i class="fas fa-search"></i>Lihat</a> | <a class="text-info" href="<?=site_url()?>admin/hapus_kamar/<?=$kamar->idkamar?>" OnClick="return confirm('Apa anda yakin ingin mendelete ini?');"><i class="fas fa-trash"></i>Hapus</a></th>
+            <th scope="row">
+            <a class="text-info" href="<?=site_url()?>admin/ubah_kamar_form/<?=$kamar->idkamar?>"><i class="fas fa-edit"></i>Ubah</a> | 
+            <a href="#" class="open-modal text-info" data-toggle="modal" data-target="#modalView" data-tipe="<?=$kamar->tipe?>" data-jumlah="<?=$kamar->jumlah?>" data-harga="<?=$kamar->harga?>" data-gambar="<?=site_url()?>uploads/admin/kamar/<?=$kamar->gambar?>"><i class="fas fa-search"></i>Lihat</a> | 
+            <a class="text-info" href="<?=site_url()?>admin/hapus_kamar/<?=$kamar->idkamar?>" OnClick="return confirm('Apa anda yakin ingin mendelete ini?');"><i class="fas fa-trash"></i>Hapus</a></th>
             <th scope="row"><?=$no?></th>
             <td><?=$kamar->tipe?></td>
             <td><?=$kamar->jumlah?></td>
@@ -90,6 +93,8 @@
       </div>
     </div>
     <!-- End Modal -->
+
+
   </div>
 </main>
 
