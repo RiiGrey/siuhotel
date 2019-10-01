@@ -7,12 +7,12 @@ Sistem ini dibuat menggunakan CodeIgeniter 3, bisa mendownload CI `Disini <https
 *******************
 Users
 *******************
-- Admin
-Username : Admin
-password : 123
-- User Biasa
-Username : ali
-password : 123
+| Admin
+| Username : Admin
+| password : 123
+| User Biasa
+| Username : ali
+| password : 123
 
 *******************
 Gambaran Aplikasi
