@@ -9,8 +9,8 @@ Users
 *******************
 
 - Admin ::
-Username : Admin
-password : 123
-- User Biasa
-Username : ali
-password : 123
+Username : Admin ::
+password : 123 ::
+- User Biasa ::
+Username : ali ::
+password : 123 ::
