@@ -2,7 +2,8 @@
 Sistem Informasi Untuk Hotel
 ###################
 
-Sistem ini dibuat menggunakan CodeIgeniter 3, bisa mendownload CI `Disini <https://codeigniter.com/download>`
+Sistem ini dibuat menggunakan CodeIgeniter 3 https://codeigniter.com/download
+dan menggunakan template mdbootstrap https://mdbootstrap.com/
 
 *******************
 Users
